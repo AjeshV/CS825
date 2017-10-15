@@ -1,1 +1,1 @@
-# CS825
+# CS825 Computer Networks
